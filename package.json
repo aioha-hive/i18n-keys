@@ -1,0 +1,49 @@
+{
+  "name": "@aioha/i18n-keys",
+  "version": "1.0.0",
+  "description": "Canonical message IDs, English defaults, and Messages adapter interface for the Aioha UI packages.",
+  "type": "module",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "import": "./build/index.js"
+    },
+    "./locales/en": {
+      "types": "./build/locales/en.d.ts",
+      "import": "./build/locales/en.js"
+    },
+    "./locales/en.json": "./src/locales/en.json"
+  },
+  "scripts": {
+    "clean": "rm -rf build",
+    "build": "tsc -p tsconfig.build.json && cp src/locales/*.json build/locales/",
+    "check": "node scripts/check-catalog.js",
+    "prepublish": "pnpm run clean && pnpm run build && pnpm run check"
+  },
+  "keywords": [
+    "aioha",
+    "i18n",
+    "icu",
+    "hive"
+  ],
+  "author": "techcoderx",
+  "license": "MIT",
+  "homepage": "https://aioha.dev",
+  "repository": {
+    "url": "https://github.com/aioha-hive/i18n-keys"
+  },
+  "files": [
+    "src",
+    "build",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "intl-messageformat": "^11.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

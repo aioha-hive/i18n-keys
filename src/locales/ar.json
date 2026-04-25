@@ -1,11 +1,13 @@
 {
   "action.back": "رجوع",
   "action.cancel": "إلغاء",
+  "action.copied": "تم النسخ!",
   "action.done": "تم",
   "action.edit": "تعديل",
   "action.proceed": "متابعة",
   "action.stop": "إيقاف",
   "auth.device.approval": "يرجى الموافقة على طلب تسجيل الدخول على الجهاز.",
+  "auth.hiveauth.copyUrl": "نسخ الرابط",
   "auth.hiveauth.instruction": "امسح رمز الاستجابة السريعة باستخدام تطبيق جوال متوافق مع HiveAuth.",
   "auth.hiveauth.openLink": "فتح رابط حمولة HiveAuth",
   "auth.oneClick.failed": "فشل تسجيل الدخول بنقرة واحدة: {error}",

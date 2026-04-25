@@ -1,11 +1,13 @@
 {
   "action.back": "Zurück",
   "action.cancel": "Abbrechen",
+  "action.copied": "Kopiert!",
   "action.done": "Fertig",
   "action.edit": "Bearbeiten",
   "action.proceed": "Fortfahren",
   "action.stop": "Stopp",
   "auth.device.approval": "Bitte bestätige die Anmeldeanfrage auf dem Gerät.",
+  "auth.hiveauth.copyUrl": "URL kopieren",
   "auth.hiveauth.instruction": "Scanne den QR-Code mit einer HiveAuth-kompatiblen mobilen App.",
   "auth.hiveauth.openLink": "HiveAuth-Payload-Link öffnen",
   "auth.oneClick.failed": "Ein-Klick-Anmeldung fehlgeschlagen: {error}",

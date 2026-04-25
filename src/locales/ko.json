@@ -1,11 +1,13 @@
 {
   "action.back": "뒤로",
   "action.cancel": "취소",
+  "action.copied": "복사됨!",
   "action.done": "완료",
   "action.edit": "편집",
   "action.proceed": "계속",
   "action.stop": "중지",
   "auth.device.approval": "기기에서 로그인 요청을 승인해 주세요.",
+  "auth.hiveauth.copyUrl": "URL 복사",
   "auth.hiveauth.instruction": "HiveAuth 호환 모바일 앱으로 QR 코드를 스캔하세요.",
   "auth.hiveauth.openLink": "HiveAuth 페이로드 링크 열기",
   "auth.oneClick.failed": "원클릭 로그인 실패: {error}",

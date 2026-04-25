@@ -1,11 +1,13 @@
 {
   "action.back": "返回",
   "action.cancel": "取消",
+  "action.copied": "已複製！",
   "action.done": "完成",
   "action.edit": "編輯",
   "action.proceed": "繼續",
   "action.stop": "停止",
   "auth.device.approval": "請在裝置上批准登入請求。",
+  "auth.hiveauth.copyUrl": "複製 URL",
   "auth.hiveauth.instruction": "使用相容 HiveAuth 的行動應用程式掃描 QR 碼。",
   "auth.hiveauth.openLink": "開啟 HiveAuth 負載連結",
   "auth.oneClick.failed": "一鍵登入失敗：{error}",

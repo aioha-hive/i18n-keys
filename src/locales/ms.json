@@ -1,11 +1,13 @@
 {
   "action.back": "Kembali",
   "action.cancel": "Batal",
+  "action.copied": "Disalin!",
   "action.done": "Selesai",
   "action.edit": "Sunting",
   "action.proceed": "Teruskan",
   "action.stop": "Berhenti",
   "auth.device.approval": "Sila luluskan permintaan log masuk pada peranti.",
+  "auth.hiveauth.copyUrl": "Salin URL",
   "auth.hiveauth.instruction": "Imbas kod QR menggunakan aplikasi mudah alih yang serasi dengan HiveAuth.",
   "auth.hiveauth.openLink": "Buka pautan muatan HiveAuth",
   "auth.oneClick.failed": "Log masuk sekali klik gagal: {error}",

@@ -1,11 +1,13 @@
 {
   "action.back": "Atrás",
   "action.cancel": "Cancelar",
+  "action.copied": "¡Copiado!",
   "action.done": "Listo",
   "action.edit": "Editar",
   "action.proceed": "Continuar",
   "action.stop": "Detener",
   "auth.device.approval": "Por favor, aprueba la solicitud de inicio de sesión en el dispositivo.",
+  "auth.hiveauth.copyUrl": "Copiar URL",
   "auth.hiveauth.instruction": "Escanea el código QR usando una aplicación móvil compatible con HiveAuth.",
   "auth.hiveauth.openLink": "Abrir enlace de carga útil de HiveAuth",
   "auth.oneClick.failed": "Error al iniciar sesión con un clic: {error}",

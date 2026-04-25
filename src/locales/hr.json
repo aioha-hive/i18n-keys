@@ -1,11 +1,13 @@
 {
   "action.back": "Natrag",
   "action.cancel": "Odustani",
+  "action.copied": "Kopirano!",
   "action.done": "Gotovo",
   "action.edit": "Uredi",
   "action.proceed": "Nastavi",
   "action.stop": "Zaustavi",
   "auth.device.approval": "Molimo odobrite zahtjev za prijavu na uređaju.",
+  "auth.hiveauth.copyUrl": "Kopiraj URL",
   "auth.hiveauth.instruction": "Skenirajte QR kôd pomoću mobilne aplikacije kompatibilne s HiveAuth-om.",
   "auth.hiveauth.openLink": "Otvori poveznicu HiveAuth podataka",
   "auth.oneClick.failed": "Prijava u jednom kliku nije uspjela: {error}",

@@ -1,11 +1,13 @@
 {
   "action.back": "戻る",
   "action.cancel": "キャンセル",
+  "action.copied": "コピーしました！",
   "action.done": "完了",
   "action.edit": "編集",
   "action.proceed": "続行",
   "action.stop": "停止",
   "auth.device.approval": "デバイスでログインリクエストを承認してください。",
+  "auth.hiveauth.copyUrl": "URLをコピー",
   "auth.hiveauth.instruction": "HiveAuth対応のモバイルアプリでQRコードをスキャンしてください。",
   "auth.hiveauth.openLink": "HiveAuthペイロードリンクを開く",
   "auth.oneClick.failed": "ワンクリックログインに失敗しました: {error}",

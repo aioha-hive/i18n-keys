@@ -1,11 +1,13 @@
 {
   "action.back": "Back",
   "action.cancel": "Cancel",
+  "action.copied": "Copied!",
   "action.done": "Done",
   "action.edit": "Edit",
   "action.proceed": "Proceed",
   "action.stop": "Stop",
   "auth.device.approval": "Please approve login request on the device.",
+  "auth.hiveauth.copyUrl": "Copy URL",
   "auth.hiveauth.instruction": "Scan the QR code using a HiveAuth-compatible mobile app.",
   "auth.hiveauth.openLink": "Open HiveAuth payload link",
   "auth.oneClick.failed": "Failed to login with one click: {error}",

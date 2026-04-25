@@ -1,11 +1,13 @@
 {
   "action.back": "Назад",
   "action.cancel": "Отмена",
+  "action.copied": "Скопировано!",
   "action.done": "Готово",
   "action.edit": "Изменить",
   "action.proceed": "Продолжить",
   "action.stop": "Остановить",
   "auth.device.approval": "Пожалуйста, подтвердите запрос на вход на устройстве.",
+  "auth.hiveauth.copyUrl": "Копировать URL",
   "auth.hiveauth.instruction": "Отсканируйте QR-код с помощью мобильного приложения, совместимого с HiveAuth.",
   "auth.hiveauth.openLink": "Открыть ссылку полезной нагрузки HiveAuth",
   "auth.oneClick.failed": "Не удалось войти в один клик: {error}",

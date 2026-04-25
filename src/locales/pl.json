@@ -1,11 +1,13 @@
 {
   "action.back": "Wstecz",
   "action.cancel": "Anuluj",
+  "action.copied": "Skopiowano!",
   "action.done": "Gotowe",
   "action.edit": "Edytuj",
   "action.proceed": "Kontynuuj",
   "action.stop": "Zatrzymaj",
   "auth.device.approval": "Zatwierdź żądanie logowania na urządzeniu.",
+  "auth.hiveauth.copyUrl": "Kopiuj URL",
   "auth.hiveauth.instruction": "Zeskanuj kod QR za pomocą aplikacji mobilnej zgodnej z HiveAuth.",
   "auth.hiveauth.openLink": "Otwórz link ładunku HiveAuth",
   "auth.oneClick.failed": "Logowanie jednym kliknięciem nie powiodło się: {error}",

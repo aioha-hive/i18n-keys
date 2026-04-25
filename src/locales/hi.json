@@ -1,11 +1,13 @@
 {
   "action.back": "वापस",
   "action.cancel": "रद्द करें",
+  "action.copied": "कॉपी किया गया!",
   "action.done": "हो गया",
   "action.edit": "संपादित करें",
   "action.proceed": "जारी रखें",
   "action.stop": "रोकें",
   "auth.device.approval": "कृपया डिवाइस पर लॉगिन अनुरोध को स्वीकृत करें।",
+  "auth.hiveauth.copyUrl": "URL कॉपी करें",
   "auth.hiveauth.instruction": "HiveAuth-संगत मोबाइल ऐप का उपयोग करके QR कोड स्कैन करें।",
   "auth.hiveauth.openLink": "HiveAuth पेलोड लिंक खोलें",
   "auth.oneClick.failed": "एक क्लिक से लॉगिन विफल: {error}",

@@ -1,11 +1,13 @@
 export const KEYS = [
   'action.back',
   'action.cancel',
+  'action.copied',
   'action.done',
   'action.edit',
   'action.proceed',
   'action.stop',
   'auth.device.approval',
+  'auth.hiveauth.copyUrl',
   'auth.hiveauth.instruction',
   'auth.hiveauth.openLink',
   'auth.oneClick.failed',

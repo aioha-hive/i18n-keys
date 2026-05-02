@@ -27,14 +27,20 @@
   "user.viewExplorer": "Prikaži u istraživaču",
   "wallet.badge.popular": "Popularno",
   "wallet.badge.snap": "Hive Snap",
+  "wallet.btcInstruction": "Dovršite povezivanje u skočnom prozoru novčanika.",
   "wallet.connect": "Poveži novčanik",
+  "wallet.connectBitcoin": "Poveži Bitcoin novčanik",
   "wallet.connectEthereum": "Poveži Ethereum novčanik",
   "wallet.connectInstruction": "Povežite se s jednim od naših dostupnih Hive pružatelja novčanika.",
   "wallet.ethInstruction": "Dovršite povezivanje u skočnom prozoru novčanika.",
   "wallet.helpLink": "Trebate pomoć s povezivanjem novčanika?",
   "wallet.provider.other": "Drugi novčanik",
   "wallet.provider.viewOnly": "Samo pregled",
+  "wallet.sectionBitcoin": "Bitcoin",
   "wallet.sectionEthereum": "Ethereum",
   "wallet.sectionHive": "Hive",
-  "wallet.selectType": "Odaberite vrstu novčanika za povezivanje."
+  "wallet.selectType": "Odaberite vrstu novčanika za povezivanje.",
+  "wallet.viewOnlyChain": "Lanac",
+  "wallet.viewOnlyInvalid": "Nevažeća adresa.",
+  "wallet.viewOnlyPlaceholder": "Unesite adresu"
 }

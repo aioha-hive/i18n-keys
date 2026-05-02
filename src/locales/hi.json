@@ -27,14 +27,20 @@
   "user.viewExplorer": "एक्सप्लोरर में देखें",
   "wallet.badge.popular": "लोकप्रिय",
   "wallet.badge.snap": "Hive Snap",
+  "wallet.btcInstruction": "वॉलेट पॉपअप में कनेक्शन पूरा करें।",
   "wallet.connect": "वॉलेट कनेक्ट करें",
+  "wallet.connectBitcoin": "Bitcoin वॉलेट कनेक्ट करें",
   "wallet.connectEthereum": "Ethereum वॉलेट कनेक्ट करें",
   "wallet.connectInstruction": "हमारे उपलब्ध Hive वॉलेट प्रदाताओं में से किसी एक से कनेक्ट करें।",
   "wallet.ethInstruction": "वॉलेट पॉपअप में कनेक्शन पूरा करें।",
   "wallet.helpLink": "वॉलेट कनेक्ट करने में सहायता चाहिए?",
   "wallet.provider.other": "अन्य वॉलेट",
   "wallet.provider.viewOnly": "केवल देखें",
+  "wallet.sectionBitcoin": "Bitcoin",
   "wallet.sectionEthereum": "Ethereum",
   "wallet.sectionHive": "Hive",
-  "wallet.selectType": "कनेक्ट करने के लिए एक वॉलेट प्रकार चुनें।"
+  "wallet.selectType": "कनेक्ट करने के लिए एक वॉलेट प्रकार चुनें।",
+  "wallet.viewOnlyChain": "चेन",
+  "wallet.viewOnlyInvalid": "अमान्य पता।",
+  "wallet.viewOnlyPlaceholder": "पता दर्ज करें"
 }

@@ -27,16 +27,22 @@ export const KEYS = [
   'user.viewExplorer',
   'wallet.badge.popular',
   'wallet.badge.snap',
+  'wallet.btcInstruction',
   'wallet.connect',
+  'wallet.connectBitcoin',
   'wallet.connectEthereum',
   'wallet.connectInstruction',
   'wallet.ethInstruction',
   'wallet.helpLink',
   'wallet.provider.other',
   'wallet.provider.viewOnly',
+  'wallet.sectionBitcoin',
   'wallet.sectionEthereum',
   'wallet.sectionHive',
-  'wallet.selectType'
+  'wallet.selectType',
+  'wallet.viewOnlyChain',
+  'wallet.viewOnlyInvalid',
+  'wallet.viewOnlyPlaceholder'
 ] as const
 
 export type MessageId = (typeof KEYS)[number]

@@ -27,14 +27,20 @@
   "user.viewExplorer": "عرض في المستكشف",
   "wallet.badge.popular": "شائع",
   "wallet.badge.snap": "Hive Snap",
+  "wallet.btcInstruction": "أكمل الاتصال في نافذة المحفظة المنبثقة.",
   "wallet.connect": "ربط المحفظة",
+  "wallet.connectBitcoin": "ربط محفظة Bitcoin",
   "wallet.connectEthereum": "ربط محفظة Ethereum",
   "wallet.connectInstruction": "اتصل بأحد مزودي محافظ Hive المتاحة لدينا.",
   "wallet.ethInstruction": "أكمل الاتصال في نافذة المحفظة المنبثقة.",
   "wallet.helpLink": "هل تحتاج إلى مساعدة في ربط محفظة؟",
   "wallet.provider.other": "محفظة أخرى",
   "wallet.provider.viewOnly": "عرض فقط",
+  "wallet.sectionBitcoin": "Bitcoin",
   "wallet.sectionEthereum": "Ethereum",
   "wallet.sectionHive": "Hive",
-  "wallet.selectType": "اختر نوع المحفظة للاتصال."
+  "wallet.selectType": "اختر نوع المحفظة للاتصال.",
+  "wallet.viewOnlyChain": "السلسلة",
+  "wallet.viewOnlyInvalid": "عنوان غير صالح.",
+  "wallet.viewOnlyPlaceholder": "أدخل العنوان"
 }

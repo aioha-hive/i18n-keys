@@ -27,14 +27,20 @@
   "user.viewExplorer": "エクスプローラーで表示",
   "wallet.badge.popular": "人気",
   "wallet.badge.snap": "Hive Snap",
+  "wallet.btcInstruction": "ウォレットのポップアップで接続を完了してください。",
   "wallet.connect": "ウォレットを接続",
+  "wallet.connectBitcoin": "Bitcoinウォレットを接続",
   "wallet.connectEthereum": "Ethereumウォレットを接続",
   "wallet.connectInstruction": "利用可能なHiveウォレットプロバイダーのいずれかに接続してください。",
   "wallet.ethInstruction": "ウォレットのポップアップで接続を完了してください。",
   "wallet.helpLink": "ウォレットの接続にヘルプが必要ですか？",
   "wallet.provider.other": "その他のウォレット",
   "wallet.provider.viewOnly": "閲覧のみ",
+  "wallet.sectionBitcoin": "Bitcoin",
   "wallet.sectionEthereum": "Ethereum",
   "wallet.sectionHive": "Hive",
-  "wallet.selectType": "接続するウォレットのタイプを選択してください。"
+  "wallet.selectType": "接続するウォレットのタイプを選択してください。",
+  "wallet.viewOnlyChain": "チェーン",
+  "wallet.viewOnlyInvalid": "無効なアドレスです。",
+  "wallet.viewOnlyPlaceholder": "アドレスを入力"
 }

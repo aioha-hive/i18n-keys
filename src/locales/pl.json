@@ -27,14 +27,20 @@
   "user.viewExplorer": "Zobacz w eksploratorze",
   "wallet.badge.popular": "Popularne",
   "wallet.badge.snap": "Hive Snap",
+  "wallet.btcInstruction": "Dokończ połączenie w oknie wyskakującym portfela.",
   "wallet.connect": "Połącz portfel",
+  "wallet.connectBitcoin": "Połącz portfel Bitcoin",
   "wallet.connectEthereum": "Połącz portfel Ethereum",
   "wallet.connectInstruction": "Połącz się z jednym z dostępnych dostawców portfela Hive.",
   "wallet.ethInstruction": "Dokończ połączenie w oknie wyskakującym portfela.",
   "wallet.helpLink": "Potrzebujesz pomocy w połączeniu portfela?",
   "wallet.provider.other": "Inny portfel",
   "wallet.provider.viewOnly": "Tylko do odczytu",
+  "wallet.sectionBitcoin": "Bitcoin",
   "wallet.sectionEthereum": "Ethereum",
   "wallet.sectionHive": "Hive",
-  "wallet.selectType": "Wybierz typ portfela do połączenia."
+  "wallet.selectType": "Wybierz typ portfela do połączenia.",
+  "wallet.viewOnlyChain": "Łańcuch",
+  "wallet.viewOnlyInvalid": "Nieprawidłowy adres.",
+  "wallet.viewOnlyPlaceholder": "Wprowadź adres"
 }

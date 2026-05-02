@@ -27,14 +27,20 @@
   "user.viewExplorer": "在浏览器中查看",
   "wallet.badge.popular": "热门",
   "wallet.badge.snap": "Hive Snap",
+  "wallet.btcInstruction": "在钱包弹窗中完成连接。",
   "wallet.connect": "连接钱包",
+  "wallet.connectBitcoin": "连接 Bitcoin 钱包",
   "wallet.connectEthereum": "连接 Ethereum 钱包",
   "wallet.connectInstruction": "从我们可用的 Hive 钱包提供商中选择一个进行连接。",
   "wallet.ethInstruction": "在钱包弹窗中完成连接。",
   "wallet.helpLink": "需要帮助连接钱包？",
   "wallet.provider.other": "其他钱包",
   "wallet.provider.viewOnly": "仅查看",
+  "wallet.sectionBitcoin": "Bitcoin",
   "wallet.sectionEthereum": "Ethereum",
   "wallet.sectionHive": "Hive",
-  "wallet.selectType": "选择要连接的钱包类型。"
+  "wallet.selectType": "选择要连接的钱包类型。",
+  "wallet.viewOnlyChain": "链",
+  "wallet.viewOnlyInvalid": "地址无效。",
+  "wallet.viewOnlyPlaceholder": "输入地址"
 }

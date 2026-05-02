@@ -1,6 +1,6 @@
 {
   "name": "@aioha/i18n-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Canonical message IDs, English defaults, and Messages adapter interface for the Aioha UI packages.",
   "type": "module",
   "main": "build/index.js",

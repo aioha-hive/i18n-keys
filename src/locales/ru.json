@@ -27,14 +27,20 @@
   "user.viewExplorer": "Посмотреть в обозревателе",
   "wallet.badge.popular": "Популярный",
   "wallet.badge.snap": "Hive Snap",
+  "wallet.btcInstruction": "Завершите подключение во всплывающем окне кошелька.",
   "wallet.connect": "Подключить кошелёк",
+  "wallet.connectBitcoin": "Подключить кошелёк Bitcoin",
   "wallet.connectEthereum": "Подключить кошелёк Ethereum",
   "wallet.connectInstruction": "Подключитесь к одному из наших доступных поставщиков кошельков Hive.",
   "wallet.ethInstruction": "Завершите подключение во всплывающем окне кошелька.",
   "wallet.helpLink": "Нужна помощь с подключением кошелька?",
   "wallet.provider.other": "Другой кошелёк",
   "wallet.provider.viewOnly": "Только просмотр",
+  "wallet.sectionBitcoin": "Bitcoin",
   "wallet.sectionEthereum": "Ethereum",
   "wallet.sectionHive": "Hive",
-  "wallet.selectType": "Выберите тип кошелька для подключения."
+  "wallet.selectType": "Выберите тип кошелька для подключения.",
+  "wallet.viewOnlyChain": "Цепь",
+  "wallet.viewOnlyInvalid": "Неверный адрес.",
+  "wallet.viewOnlyPlaceholder": "Введите адрес"
 }
